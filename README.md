@@ -7,6 +7,8 @@ Chessboard-Pi
 
 Design files for a magnetic-piece-tracking digital chessboard! WIP
 
+Note that the main assembly has not been finished and therefore has not been uploaded yet. 
+
 This repository contains the Fusion CAD files for the Chessboard, including its pieces. 
 For the PCB project, see [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware).
 For the Arduino Nano firmware, see [Chessboard-Nano](https://github.com/UnsignedArduino/Chessboard-Nano).
