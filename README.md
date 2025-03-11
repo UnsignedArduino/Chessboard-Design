@@ -15,10 +15,10 @@ For the Raspberry Pi firmware, see Chessboard-Pi.
 ## Notes
 
 * The chess pieces were modified from [Mo's model](https://makerworld.com/en/models/216757-chess-set?from=search#profileId-388041).
-* The pieces in [`Chess Pieces`](/Chess Pieces) all come from 
-  [`All Chess Pieces v13.f3d`](/Chess Pieces/All Chess Pieces v13.f3d). The 
+* The pieces in [`Chess Pieces`](Chess%20Pieces) all come from 
+  [`All Chess Pieces v13.f3d`](Chess%20Pieces/All%20Chess%20Pieces%20v13.f3d). The
   other STEP and 3MF files are all derivations from that file. Due to the size
   of `*.f3d` files, they have only been included for the main assembly and for
   all the chess pieces combined.
-* The [`Chessboard Design v35.f3z`](/Chessboard Design v35.f3z) file is 
+* The [`Chessboard Design v35.f3z`](Chessboard%20Design%20v35.f3z) file is
   the work in progress part. 
