@@ -15,6 +15,7 @@ Fusion and Fusion files.
 ## Notes
 
 * The chess pieces were modified from [Mo's model](https://makerworld.com/en/models/216757-chess-set?from=search#profileId-388041).
+  * The 3MF was imported into Fusion to preprocess before opening in Inventor.
 * Credits to the CAD models of certain hardware pieces can be found in the notes of 
   [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware) and 
   [Chessboard-Hardware-2](https://github.com/UnsignedArduino/Chessboard-Hardware-2).
