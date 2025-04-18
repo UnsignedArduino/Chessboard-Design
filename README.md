@@ -19,3 +19,5 @@ Fusion and Fusion files.
 * Credits to the CAD models of certain hardware pieces can be found in the notes of 
   [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware) and 
   [Chessboard-Hardware-2](https://github.com/UnsignedArduino/Chessboard-Hardware-2).
+* The M2.5 standoffs and other related hardware models came from McMaster Carr. I picked 
+  these ones because it's what I had laying around.
