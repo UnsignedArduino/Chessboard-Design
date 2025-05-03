@@ -1,5 +1,4 @@
 [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware) |
-[Chessboard-Hardware-2](https://github.com/UnsignedArduino/Chessboard-Hardware-2) |
 [Chessboard-Design](https://github.com/UnsignedArduino/Chessboard-Design) |
 [Chessboard-Nano](https://github.com/UnsignedArduino/Chessboard-Nano) |
 [Chessboard-Pi](https://github.com/UnsignedArduino/Chessboard-Pi)
@@ -17,7 +16,6 @@ Fusion and Fusion files.
 * The chess pieces were modified from [Mo's model](https://makerworld.com/en/models/216757-chess-set?from=search#profileId-388041).
   * The 3MF was imported into Fusion to preprocess before opening in Inventor.
 * Credits to the CAD models of certain hardware pieces can be found in the notes of 
-  [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware) and 
-  [Chessboard-Hardware-2](https://github.com/UnsignedArduino/Chessboard-Hardware-2).
+  [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware).
 * The M2.5 standoffs and other related hardware models came from McMaster Carr. I picked 
   these ones because it's what I had laying around.
