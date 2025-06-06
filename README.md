@@ -15,6 +15,8 @@ Fusion and Fusion files.
 
 * The chess pieces were modified from [Mo's model](https://makerworld.com/en/models/216757-chess-set?from=search#profileId-388041).
   * The 3MF was imported into Fusion to preprocess before opening in Inventor.
+* The Raspberry Pi 5 is [Mateusz Zelek's model](https://grabcad.com/library/raspberry-pi-5-2).
+* The Adafruit PiTFT 2.8in capacitive is [Manel Torrecilla's model](https://grabcad.com/library/adafruit-pitft-2-8-1).
 * Credits to the CAD models of certain hardware pieces can be found in the notes of 
   [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware).
 * The M2.5 standoffs and other related hardware models came from McMaster Carr. I picked 
