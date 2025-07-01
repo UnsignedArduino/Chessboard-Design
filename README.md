@@ -21,3 +21,8 @@ Fusion and Fusion files.
   [Chessboard-Hardware](https://github.com/UnsignedArduino/Chessboard-Hardware).
 * The M2.5 standoffs and other related hardware models came from McMaster Carr. I picked 
   these ones because it's what I had laying around.
+* To get those hardware models this design relies on, initialize the submodules:
+  ```
+  git submodule init
+  git submodule update
+  ```
